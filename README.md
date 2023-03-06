@@ -39,17 +39,3 @@ Then, run the application in the command line and it will be available at `http:
 ```bash
 npm run dev
 ```
-
-## One-Click Deploy
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Nutlope/restorePhotos&env=REPLICATE_API_KEY&project-name=face-photo-restorer&repo-name=restore-photos)
-
-## Powered by
-
-This example is powered by the following 3 services:
-
-- [Replicate](https://replicate.com) (AI API)
-- [Upload](https://upload.io) (storage)
-- [Vercel](https://vercel.com) (hosting, serverless functions, analytics)
